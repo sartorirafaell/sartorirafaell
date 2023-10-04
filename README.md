@@ -6,7 +6,7 @@
 
 Me chamo Rafael, tenho 28 anos e moro em Porto Alegre, RS.!
 
-Estudo:
+Formação:
 - Análise e Desenvolvimento de Sistemas
 - Técnico em Desenvolvimento de Sistemas
 
