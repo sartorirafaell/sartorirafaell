@@ -10,7 +10,7 @@ Formação:
 - Análise e Desenvolvimento de Sistemas
 - Técnico em Desenvolvimento de Sistemas
 
-Atualmente estou estudando a linguagem JAVA, mas já estudei HTML, CSS e um pouco de Python.
+Atualmente estou estudando HTML, CSS, JS e PHP. Já estudei Java e um pouco de Python.
 
 ### Tecnologias que eu uso no meu dia
 
