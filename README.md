@@ -4,13 +4,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-sartori-de-azevedo-354b85180/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sartorirafael/)
 
-Me chamo Rafael, tenho 28 anos e moro em Porto Alegre, RS.!
+Me chamo Rafael, tenho 29 anos e moro em Porto Alegre, RS.!
 
 Formação:
-- Análise e Desenvolvimento de Sistemas
-- Técnico em Desenvolvimento de Sistemas
+- Análise e Desenvolvimento de Sistemas (em andamento)
+- Técnico em Desenvolvimento de Sistemas (concluído)
 
-Atualmente estou estudando HTML, CSS, JS e PHP. Já estudei Java e um pouco de Python.
+Atualmente estou estudando Java e Python.
 
 ### Tecnologias que eu uso no meu dia
 
