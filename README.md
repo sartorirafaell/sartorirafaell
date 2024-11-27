@@ -21,6 +21,7 @@ Atualmente estou estudando Java e Python.
 <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="Apache Netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
 <img align="center" alt="Python" src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="IntelliJ" src ="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div><br/>
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=sartorirafaell&show_icons=true&theme=tokyonight)
