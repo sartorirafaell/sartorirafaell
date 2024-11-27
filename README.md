@@ -12,7 +12,7 @@ Formação:
 
 Atualmente estou estudando Java e Python.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sartorirafaell&layout=compact)
 
 ### Tecnologias que eu uso no meu dia
 
